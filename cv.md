@@ -1,11 +1,15 @@
 # Irina Nipadistova
-====================================================
+======================================================================================================
 
 ## Junior Software Engineer
 
 -------------------     ----------------------------
-Belarus, Minsk                                
+Belarus
+
+Minsk  
+
 +375 29 1041896 
+
 ilesco@mail.ru                         
 -------------------     ----------------------------
 
@@ -48,9 +52,12 @@ let sum = 0
 * Belarusian National Technical University, master's degree in metallurgy
 * Academy of Postgraduate Education of BNTU, intercultural communication (English)
 * pixel.one, drawing in Adobe Illustrator
-* JavaScript on [learnjavascript.ru] (https://learn.javascript.ru/) (in progress)
+* JavaScript on [learnjavascript.ru][1] (in progress)
 
 ### Language:
 
 * English - Intermediate/Upper-intermediate
 * Belorussian/Russian - Native speaker
+
+
+[1]:https://learn.javascript.ru/
