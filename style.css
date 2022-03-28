@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,regular,italic,500,600,700);
+
+.cont {
+	display: flex;
+	background-image: url(D:/Ира/rs_school/istockphoto-527071989-170667a.jpg);
+	opacity: 1;
+	background-size: cover;
+	position: absolute;
+	width: 600px;
+	height: 750px;
+	left: 420px;
+	top: -8px;
+}
+
+.logo {
+	display: flex;
+	position: absolute;
+	left: 840px;
+	top: 34px;
+}
+body { 
+	
+	background-color: rgba(240, 47, 115, 0.212);
+	opacity: 1; 
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 420px;
+	height: 792px;
+	left: 0px;
+	top: 0px;
+}
+
+
+*{
+	color: #222222;
+	font-family: IBM Plex Sans;
+	font-size: 10px;
+}
+
+
+.description{
+	font-family: IBM Plex Sans;
+	display: flex;
+	margin: 36px;
+	margin-left: 25px
+}
+
+a{
+	font-family: IBM Plex Sans;
+	color: blue;
+}
+
+.contacts{
+	margin: -25px;
+	margin-left: 25px;
+}
+
+.contact{
+	display: flex;
+	align-items: center;
+}
+
+.contact_type{
+	min-width: 25px;
+}
+
+.conteiner {
+	font-family: IBM Plex Sans;
+	display: flex ;
+}
+.myself {
+	display: block;
+	min-width: 340px;
+	margin-left: 25px;
+	margin-right: 100px;
+}
+
+.language {
+	display: block;
+	margin-right: 60px;
+}
+
+.skills p {
+	font-family: IBM Plex Sans;
+	display: flex;
+	margin: 36px;
+	margin-left: 25px;
+}
+.education{
+	font-family: IBM Plex Sans;
+	display: block;
+	margin-left: 35px;
+	
+}
+h1{
+	font-family: IBM Plex Sans;
+	font-size: 44px;
+	margin: 36px;
+	margin-left: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 57px;
+}
+h2{
+	font-family: IBM Plex Sans;
+	font-size: 22px;
+	font-style: normal;
+	line-height: 22px;
+	margin: 20px;
+	margin-left: 25px;
+	background: linear-gradient(135deg, #FF26B2 0%, #851BD9 64.06%, #3F0FFF 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: 700;
+}
+ 
+h3{
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	margin: 36px;
+	margin-left: 25px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+h4{
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+h5{
+	font-family: IBM Plex Sans;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+	margin-left: 0px;
+}
