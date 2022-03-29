@@ -1,1 +1,1 @@
-https://ilesco.github.io/rsschool-cv/cv
+https://ilesco.github.io/rsschool-cv/
